@@ -1,0 +1,10 @@
+C:\C#_VisualStudio\Converter\bin\Debug\Converter.exe.config
+C:\C#_VisualStudio\Converter\bin\Debug\Converter.exe
+C:\C#_VisualStudio\Converter\bin\Debug\Converter.pdb
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.Converter.resources
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.exe
+C:\C#_VisualStudio\Converter\obj\Debug\Converter.pdb
