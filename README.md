@@ -1,3 +1,3 @@
 C# Converter
 
-Convets from/to binary/octal/decimal/hexadecimal
+Converts from/to binary/octal/decimal/hexadecimal
